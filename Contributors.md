@@ -603,6 +603,7 @@
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
+- Philip Hazeley
 - Samantha Milliga
 - Kalp Vyas
 - Furkan Calik
